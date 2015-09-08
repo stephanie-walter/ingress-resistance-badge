@@ -1,4 +1,4 @@
-# Ingress blue badge
+# Ingress Resistance Badge Template
 A free template for ingress badges. Under <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode">CC0 licence. </a>
 
 ## The template contains 
