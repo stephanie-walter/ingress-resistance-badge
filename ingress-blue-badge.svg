@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="badge" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g id="background">
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#091A22" points="62,596.1 62,202.9 400,6.3 738,202.9 738,596.1 
+		400,792.7 	"/>
+	<path fill="#184468" d="M400,12.1l333,193.7v387.5L400,786.9L67,593.3V205.8L400,12.1 M400,0.5L57,200v399l343,199.5L743,599V200
+		L400,0.5L400,0.5z"/>
+</g>
+<g id="blue_border">
+	<path fill="#0FA5E3" d="M400,764.2l-2-1.2L86,581.8V217.2L400,34.8l314,182.4v364.7L400,764.2z M94,577.2l306,177.7l306-177.7
+		V221.8L400,44.1L94,221.8V577.2z"/>
+</g>
+<g id="lines">
+	<path fill="#12274C" d="M625.2,286.4c29.2-13.7,59.2-27.8,80.8-38v-25.5l-33.5-19.5c-20.3,9.6-45.8,21.5-70.7,33.2
+		c-23.3,10.9-124.6,60.1-201.8,97.5v61.1C478.3,357.3,599.4,298.5,625.2,286.4z"/>
+	<path fill="#12274C" d="M672.1,455.5c11.4-5.3,22.8-10.7,33.9-15.9v-60.8c-17.5,8.3-37.6,17.7-57.3,26.9
+		c-28.6,13.4-173.7,83.9-248.7,120.3v61.1C462,557.2,640.2,470.5,672.1,455.5z"/>
+	<path fill="#12274C" d="M686.6,545.7c6.5-3.2,13-6.4,19.4-9.6v-61.4c-14,6.9-29,14.4-43.8,21.7c-30.6,15.2-192.3,94.5-262.2,128.7
+		v61.2C444.5,664.7,651.4,563.1,686.6,545.7z"/>
+	<polygon fill="#12274C" points="642.1,185.8 584.6,152.4 400,240.6 400,301.6 	"/>
+	<path fill="#12274C" d="M653.5,370c17.9-8.4,36.2-16.9,52.5-24.6v-60.8c-20.5,9.7-48.5,22.9-75.8,35.6
+		c-23.9,11.2-154.5,74.6-230.2,111.3v61.1C467.7,459.8,626.9,382.4,653.5,370z"/>
+</g>
+<g id="content_mask" display="none">
+	<defs>
+		<polygon id="mask" points="94,222.2 400,44.8 706,222.2 706,576.9 400,754.2 94,576.9 		"/>
+	</defs>
+	<clipPath id="mask_1_" display="inline">
+		<use xlink:href="#mask"  overflow="visible"/>
+	</clipPath>
+	<g id="content" display="inline" clip-path="url(#mask_1_)">
+		<rect x="-5" y="-6.4" fill="#F2F2F2" width="811.8" height="811.8"/>
+		<rect x="154" y="335.2" fill="none" width="520.9" height="262.5"/>
+		<text transform="matrix(1 0 0 1 237.1153 362.3057)"><tspan x="0" y="0" fill="#284669" font-family="'BoosterNextFY-Medium'" font-size="39.236">Your content here :) </tspan><tspan x="-75.5" y="47.1" fill="#284669" font-family="'BoosterNextFY-Medium'" font-size="39.236">Don’t forget to use the mask</tspan></text>
+	</g>
+</g>
+</svg>
